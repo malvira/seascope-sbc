@@ -4,8 +4,8 @@ Seascope SBC: Open hardware linux single board computer for robotics
 The Seascope SBC is an open hardware single board computer that runs
 linux with a formfactor suitable for robotics. 
 
-![SBC top](cpu-top.jpg)
-![SBC bottom](cpu-bottom.jpg)
+![SBC top](https://raw.github.com/malvira/seascope-sbc/master/cpu-top.jpg)
+![SBC bottom](https://raw.github.com/malvira/seascope-sbc/master/cpu-bottom.jpg)
 
 Inexpesive
 ----------
